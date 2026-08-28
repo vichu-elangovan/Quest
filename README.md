@@ -1,20 +1,13 @@
-# C, C++ & DSA Placement Preparation
+# C & Python Programming
 
-Hi! I'm Vishnu, an Electronics and Communication Engineering student.
+Hi, I'm vichu-elangovan, an Electronics and Communication Engineering student.
 
-This repository documents my daily journey of learning:
+This repository contains my notes, programs, and practice exercises in C and Python programming.
 
+## Topics
 - C Programming
-- C++
-- Data Structures & Algorithms
-- GATE Preparation
-- Placement Preparation
-- LeetCode & SkillRack
+- Python Programming
+- Object-Oriented Programming (OOP)
+- Problem Solving
 
-## Progress
-
-- Day 1 ✅
-- Day 2 ✅
-- Day 3 ✅
-
-More updates coming every day.
+🚀 Learning, practicing, and improving every day.
