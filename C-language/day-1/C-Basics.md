@@ -14,7 +14,7 @@ Source Code (.c) → Compiler → Object Code → Executable
 
 Header files (.h) provide access to pre-built functions via the #include directive:
 
-c
+
 #include <stdio.h>   // enables printf(), scanf()
 #include <stdlib.h>  // enables malloc(), free()
 3. Data Types & Format Specifiers
