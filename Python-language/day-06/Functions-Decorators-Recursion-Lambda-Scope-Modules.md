@@ -13,11 +13,11 @@ Python, functions themselves are objects that can be referenced.
 
 ```python
 def greet():
-    print("Hi")
+    print("Hello")
 
 x = greet     # NOTE: no parentheses — this assigns the function itself, not its result
 x()
-# Output: Hi
+# Output: Hello
 ```
 **Key idea:** `greet` (without `()`) refers to the function object itself; `greet()` calls
 it. Since functions are objects, they can be assigned to variables, just like an int or a
