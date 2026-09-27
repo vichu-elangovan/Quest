@@ -27,7 +27,7 @@ an interpreter which goes line by line.
 ## 2. Trying Things in the Interpreter
 
 ```python
->>> 5 + 7
+>>> 5  +  7
 12
 
 >>> 8 - 9
@@ -40,7 +40,7 @@ an interpreter which goes line by line.
 2.0
 ```
 
-**Why does `4 / 2` return `2.0` (a float) instead of `2`?**
+**Why does `8 / 4` return `2.0` (a float) instead of `2`?**
 Because `/` is **true division** in Python — it always returns a float, since dividing two
 numbers doesn't always produce a whole number (e.g. `5 / 2 = 2.5`). Python keeps the return
 type consistent regardless of the specific numbers involved.
