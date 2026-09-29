@@ -6,7 +6,7 @@ Topics: What is C, Compilers, Header Files, Data Types, Storage Classes, Scope, 
 
 A C program is a sequence of instructions organized into functions, executed step by step. C is a procedural language — execution follows a defined order through function calls, unlike object-oriented languages that organize code around objects.
 
-2. Compiler & Header Files
+2. Compiler and Header Files
 
 A compiler translates C source code into machine-executable code.
 
