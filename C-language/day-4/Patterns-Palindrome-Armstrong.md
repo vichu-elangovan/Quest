@@ -1,6 +1,4 @@
-Commit message: Add C Day 4: Patterns, Palindrome, Armstrong
 
-markdown
 # Day 4 — Pattern Printing, Palindrome & Armstrong Numbers
 
 **Topics:** Nested Loops for Patterns, Palindrome Check, Digit Count, Armstrong Numbers
