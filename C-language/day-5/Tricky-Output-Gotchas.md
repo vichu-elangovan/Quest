@@ -4,7 +4,7 @@
 
 ---
 
-## 1. XOR Swap (Swap Without a Temp Variable)
+## 1. XOR Swapping (Swap Without a Temp Variable)
 
 ```c
 int a = 4, b = 3;
